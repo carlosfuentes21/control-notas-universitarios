@@ -1,0 +1,22 @@
+NOMBRE	CODIGO	FACULTAD
+Ingenieria de Sistemas	11	1-ingenierias
+Ingenieria mecatronica	12	1-ingenierias
+Ingenieria Industrial	13	1-ingenierias
+Ingenieria de Alimentos	14	1-ingenierias
+Ingenieria Electrica	15	1-ingenierias
+biologia	21	2-Ciencias basicas
+Fisica	22	2-Ciencias basicas
+Matematicas	23	2-Ciencias basicas
+Geologia	24	2-Ciencias basicas
+Quimica	25	2-Ciencias basicas
+Microbiologia	26	2-Ciencias basicas
+Ingenieria agronomica	31	3-Ciencias Agrarias
+Zootecnia	32	3-Ciencias Agrarias
+Medicina veterinaria	33	3-Ciencias Agrarias
+Bacteriologia	41	4-Medicina
+Enfermeria	42	4-Medicina
+Fisiterapia	43	4-Medicina
+Medicina	44	4-Medicina
+Nutricion y dietetica	45	4-Medicina
+Sicologia	46	4-Medicina
+Terapia ocupacional	47	4-Medicina
